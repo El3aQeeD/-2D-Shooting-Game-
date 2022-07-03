@@ -1,0 +1,11 @@
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\bin\Debug\largeGame.exe.config
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\bin\Debug\largeGame.exe
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\bin\Debug\largeGame.pdb
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.csproj.AssemblyReference.cache
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.CActor.resources
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.Properties.Resources.resources
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.csproj.GenerateResource.cache
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.csproj.CoreCompileInputs.cache
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.exe
+C:\Users\khaled mostafa\Desktop\largeGame\largeGame\obj\Debug\largeGame.pdb
